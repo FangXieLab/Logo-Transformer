@@ -15,7 +15,7 @@ Python files include:
 
 ## Dataset
 
-The dataset involved in this study consists of [Famous Brand Logos](https://www.kaggle.com/datasets/linkanjarad/famous-brand-logos) and [Logo-2K+](https://paperswithcode.com/dataset/logo-2k).
+The dataset involved in this study can be downloaded from [Famous Brand Logos](https://www.kaggle.com/datasets/linkanjarad/famous-brand-logos) and [Logo-2K+](https://paperswithcode.com/dataset/logo-2k).
 
 ## Environmental Setup
 
